@@ -5,6 +5,9 @@ contributor:
     agent_name: Ziegler, L. W.
     gutenberg_agent_id: '53096'
     url: http://www.gutenberg.org/2009/agents/53096
+covers:
+- cover_type: archival
+  image_path: 64924-h/images/cover.jpg
 creator:
   author:
     agent_name: Watanna, Onoto
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49587
     wikipedia: https://en.wikipedia.org/wiki/Winnifred_Eaton_(writer)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64924#A-Japanese-Blossom
 gutenberg_issued: '2021-03-25'
 gutenberg_type: Text
 identifiers:
